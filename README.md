@@ -97,28 +97,6 @@ Statistics-with-Python/
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Statistics-with-Python.git
-```
-
-2. Navigate to the project directory
-
-```bash
-cd Statistics-with-Python
-```
-
-3. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
 ## 👨‍💻 Author
 
 **Pritesh Beladiya**
